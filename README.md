@@ -4,8 +4,8 @@ This repository holds code and results for the Masterthesis of Jannis Groenberg.
 For questions feel free to reach out for me.
 
 The algorithm basically Extends the work of:
-[PatchCore](https://github.com/amazon-research/patchcore-inspection)
-[PatchCore Publication](https://arxiv.org/abs/2106.08265)
+- [PatchCore](https://github.com/amazon-research/patchcore-inspection)
+- [PatchCore Publication](https://arxiv.org/abs/2106.08265)
 
 This is done by changing the Backbone from Wide-ResNets to EfficientNets and applying other outlier detection algorithms instead of k-nearest Neighbors.
 
